@@ -1,0 +1,6 @@
+.logo {
+ 	background-image: linear-gradient(-225deg, rgb(0, 0, 0, 0.7) 0%, rgb(0, 0, 0, 0.2) 50%), url(../../images/Sans titre-1.jpg);
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
